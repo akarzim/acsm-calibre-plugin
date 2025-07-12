@@ -5,7 +5,7 @@ It is a full Python reimplementation of libgourou by Grégory Soutadé (http://i
 extended by more and more features.
 
 <details>
-  <summary>ACSM Input Plugin for Calibre - Copyright (c) 2021-2025 Leseratte10</summary>
+  <summary>ACSM Input Plugin for Calibre - Copyright © 2021-2025 Leseratte10</summary>
 
 ```
 ACSM Input Plugin for Calibre / acsm-calibre-plugin
